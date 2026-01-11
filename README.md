@@ -16,4 +16,6 @@ The algorithm works by starting from a source node and repeatedly selecting the 
 - How algorithm efficiency can be improved using appropriate data structures
 
 ## Notes
-This project was created as part of my learning process and focuses on clarity and correctness rather than optimisation.
+- This project was created as part of my learning process and focuses on clarity and correctness rather than optimisation.
+- An experimental visualisation of the algorithm is included. While it is not fully functional, it documents my attempt to represent the pathfinding process and the challenges involved.
+
